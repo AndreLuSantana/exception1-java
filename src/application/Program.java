@@ -55,6 +55,8 @@ public class Program {
 				
 			}
 			
+		System.out.println();
+			
 		}
 		
 		sc.close();
